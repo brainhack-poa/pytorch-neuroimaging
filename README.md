@@ -1,2 +1,2 @@
-# pytorch-tutorial
-Pytorch Tutorial for Brainhack POA
+# pytorch-neuroimaging
+Neuroimaging classification tutorial for Brainhack POA.
